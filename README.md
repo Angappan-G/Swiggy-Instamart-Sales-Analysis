@@ -1,8 +1,9 @@
 🚀 Projet Overview
-    1.This Power BI dashboard analyzes sales performance across Swiggy Instamart outlets in India.
-    2.Providing key insights into item-level performance, outlet trends, customer behavior and sales distribution across different dimensions.
+    
+    This Power BI dashboard analyzes sales performance across Swiggy Instamart outlets in India.Providing key insights into item-level performance, outlet trends, customer behavior and sales distribution across different dimensions.
 
 🎯 Objectives
+    
     1. Track overall and average sales performance.
     
     2. Identify top-selling item categories.
@@ -51,9 +52,11 @@ Theming:
     2. Logo and shadow effects for professional branding
 
 📅 Time Series Enhancements
-    * Since the raw data only included outlet establishment year, a synthetic Sales Date column was generated using Power Query to enable future monthly/weekly trend analysis.
+    
+     Since the raw data only included outlet establishment year, a synthetic Sales Date column was generated using Power Query to enable future monthly/weekly trend analysis.
 
 🧠 Insights
+    
     1. Fruits & Vegetables and Snacks were the top-selling categories.
     
     2. Tier 3 cities had the highest share of total sales.
@@ -63,6 +66,7 @@ Theming:
     4. Sales peaked in the year 2018, likely due to new outlet launches.
 
 🛠️ Tools Used
+    
     1. Power BI Desktop
     
     2. Power Query (M)
@@ -72,6 +76,7 @@ Theming:
     4. Excel (for base dataset)
 
 🔍 Future Enhancements
+    
     1. Add monthly and weekly trend visuals using the generated Sales Date.
     
     2. Include tooltip pages for deeper KPI exploration.
