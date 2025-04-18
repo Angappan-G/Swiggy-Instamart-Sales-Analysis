@@ -1,0 +1,49 @@
+{
+  "name": "Swiggy Instamart Theme",
+  "dataColors": ["#FC8019", "#FFB84D", "#FFD699", "#A3D977", "#4CAF50", "#FF7043", "#FFCCBC"],
+  "background": "#FFF7F2",
+  "foreground": "#000000",
+  "tableAccent": "#FC8019",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "color": "#000000",
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "labels": [
+          {
+            "color": "#000000",
+            "fontSize": 12
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [
+          {
+            "color": "#FFF7F2"
+          }
+        ],
+        "foreground": [
+          {
+            "color": "#000000"
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": "#FFF7F2"
+          }
+        ]
+      }
+    }
+  }
+}
